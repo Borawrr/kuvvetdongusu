@@ -26,6 +26,11 @@ public class dongukuvvet {
 
 
         
+        }
+    
+        scanner.close();
+    
     }
-}
+
+
 }
